@@ -9,8 +9,8 @@
     "test": "jest --watchAll"
   },
   "dependencies": {
-    "react": "^17.0.1",
-    "react-dom": "^17.0.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
     "react-icons": "^4.2.0"
   },
   "devDependencies": {
@@ -30,9 +30,9 @@
     "html-webpack-plugin": "^4.5.1",
     "identity-obj-proxy": "^3.0.0",
     "jest": "^26.6.3",
-    "node-sass": "^6.0.1",
     "react-app-polyfill": "^2.0.0",
     "react-refresh": "^0.9.0",
+    "sass": "^1.49.9",
     "sass-loader": "^10.1.1",
     "style-loader": "^2.0.0",
     "ts-node": "^9.1.1",
@@ -40,5 +40,7 @@
     "webpack": "^5.17.0",
     "webpack-cli": "^4.4.0",
     "webpack-dev-server": "^3.11.2"
-  }
+  },
+  "repository": "https://github.com/rubbinhoxd/Desafio01-Rocketseat.git",
+  "author": "Rubens-filho <fracicorubens@yahoo.com>"
 }
